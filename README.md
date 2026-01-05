@@ -5,7 +5,7 @@
 <img src="https://kikachangames.github.io/Saki-Sanobashi/img/saki-cover.jpg">
 <br/>
 
-<p>Nesta página você encontra informações sobre tradução, para a língua portuguesa, da visual novel<a href="https://vndb.org/v46844" target="_blank"> Go For A Punch! Saki Sanobashi</a>, lançada pela Veratrum Games em 2023.</p>
+<p>Nesta página você encontra informações sobre a tradução, para a língua portuguesa, da visual novel<a href="https://vndb.org/v46844" target="_blank"> Go For A Punch! Saki Sanobashi</a>, lançada pela Veratrum Games em 2023.</p>
 <br/>
 
 <h3>Sinopse</h3>
