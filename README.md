@@ -1,3 +1,6 @@
+<img src="https://img.shields.io/badge/horror%20psicológico-111111" alt="Horror psicológico">
+<img src="https://img.shields.io/badge/violência%20gráfica-4b0000" alt="Violência gráfica">
+<img src="https://img.shields.io/badge/suicídio-2b0000" alt="Suicídio">
 <p>⚠️ AVISO: Este jogo não é adequado para menores.</p> <br/>
 <img src="https://kikachangames.github.io/Saki-Sanobashi/img/saki-cover.jpg">
 <br/>
