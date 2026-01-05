@@ -23,6 +23,7 @@
 <br/>
 <img src="https://kikachangames.github.io/Saki-Sanobashi/img/04.png">
 <br/>
+<br/>
 
 <h3>Tradução</h3>
 
@@ -30,7 +31,7 @@
 <img src="https://kikachangames.github.io/air/manolo.png">
 </div>
 <div style="display:inline-block;">
-<h3>Manolo-chan</h3>
+<h4>Manolo-chan</h4>
 </div>
 
 <br/>
