@@ -1,6 +1,4 @@
-<img src="https://img.shields.io/badge/violência%20extrema-4b0000" alt="Violência Extrema">
-<img src="https://img.shields.io/badge/temas%20sensíveis-3a0000" alt="Temas sensíveis">
-<img src="https://img.shields.io/badge/linguagem%20imprópria-2b0000" alt="Linguagem imprópria">
+<img src="https://img.shields.io/badge/violência%20extrema-4b0000" alt="Violência Extrema"><img src="https://img.shields.io/badge/temas%20sensíveis-3a0000" alt="Temas sensíveis"><img src="https://img.shields.io/badge/linguagem%20imprópria-2b0000" alt="Linguagem imprópria">
 <p>⚠️ AVISO: Este jogo não é adequado para menores.</p> <br/>
 <img src="https://kikachangames.github.io/Saki-Sanobashi/img/saki-cover.jpg">
 <br/>
